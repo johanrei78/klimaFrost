@@ -1,5 +1,5 @@
 # klimaFrost
-# 🌍 Interaktiv klimavisualisering for norsk geografi (Streamlit + Frost API)
+# 🌍 Interaktiv klimavisualisering (Streamlit + Frost API)
 
 Denne Streamlit-appen henter klimadata fra **Frost API** (Meteorologisk institutt) og visualiserer dem interaktivt. 
 Appen kan brukes for å sammenligne klimavariabler (temperatur, nedbør, vind) mellom norske byer.
